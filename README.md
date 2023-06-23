@@ -3,3 +3,5 @@
 
 - Game is under development from the year 2021
 - Current version of game : Alpha-Dev 0.1.20
+
+Game will be updating on Discord (https://discord.gg/nKMNK39D) and Github
