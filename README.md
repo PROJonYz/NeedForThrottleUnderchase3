@@ -1,2 +1,2 @@
 # Need For Throttle Underchase 3
-  Open World racing game, made in godot
+  Open world racing game, which is made in Godot Engine
