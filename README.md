@@ -5,4 +5,4 @@
 - Current version of game : Alpha-Dev 0.1.20
 ---
 - Game will be updating on Discord and Github
-- You can find download link and more in my Discord channel (https://discord.gg/nKMNK39D)
+- You can find download link and more information about project in Discord channel (https://discord.gg/nKMNK39D)
