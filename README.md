@@ -23,6 +23,19 @@
 ---
 
 <h1 align="center">Cars</h1>
+
+- Career Stage 0:
+   • Nissan 350z
+
+- Career Stage 1:
+   • Nissan Silvia S13
+   • Mazda MX-5
+
+- Career Stage 2:
+   • Toyota Supra
+   • Nissan Skyline R34
+   • Mazda RX-7
+
 <p float="left">
   <img src="https://github.com/PROJonYz/NeedForThrottleUnderchase3/blob/main/screenshots/car1.png" width="500" height="300">
   <img src="https://github.com/PROJonYz/NeedForThrottleUnderchase3/blob/main/screenshots/car2.png" width="500" height="300">
@@ -40,9 +53,9 @@
 <p float="center">
   <h2 align="left">Atomic City</h2>
   <img src="https://github.com/PROJonYz/NeedForThrottleUnderchase3/blob/main/screenshots/atomic_city.png" width="500" height="300">
-  <h2 align="left">RedPort</h2>
+  <h2 align="left">RedPort (unlocks after sprint race)</h2>
   <img src="https://github.com/PROJonYz/NeedForThrottleUnderchase3/blob/main/screenshots/redport.png" width="500" height="300">
-  <h2 align="left">Bayside City</h2>
+  <h2 align="left">Bayside City (unlocks after drift race)</h2>
   <img src="https://github.com/PROJonYz/NeedForThrottleUnderchase3/blob/main/screenshots/bayside_city.png" width="500" height="300">
 </p>
 
