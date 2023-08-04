@@ -39,8 +39,11 @@
 
 <h1 align="center">Locations</h1>
 <p float="center">
+  - Atomic City
   <img src="https://github.com/PROJonYz/NeedForThrottleUnderchase3/blob/main/screenshots/atomic_city.png" width="500" height="300">
+  - RedPort
   <img src="https://github.com/PROJonYz/NeedForThrottleUnderchase3/blob/main/screenshots/redport.png" width="500" height="300">
+  - Bayside City
   <img src="https://github.com/PROJonYz/NeedForThrottleUnderchase3/blob/main/screenshots/bayside_city.png" width="500" height="300">
 </p>
 
