@@ -15,7 +15,7 @@
 <h1 align="center">Screenshots</h1>
 
 - MainMenu
-![Screenshot|200](screenshots/mainmenu.png)
+![|200](screenshots/mainmenu.png)
 
 - Settings
 ![Screenshot](screenshots/settings.png)
