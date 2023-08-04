@@ -16,8 +16,8 @@
 
 <h1 align="center">MainMenu & Settings</h1>
 <p float="left">
-  <img src="https://github.com/PROJonYz/NeedForThrottleUnderchase3/blob/main/screenshots/mainmenu.png" width="500" height="300">
-  <img src="https://github.com/PROJonYz/NeedForThrottleUnderchase3/blob/main/screenshots/settings.png" width="500" height="300">
+  <img src="https://github.com/PROJonYz/NeedForThrottleUnderchase3/blob/main/screenshots/mainmenu.png" width="450" height="250">
+  <img src="https://github.com/PROJonYz/NeedForThrottleUnderchase3/blob/main/screenshots/settings.png" width="450" height="250">
 </p>
 
 ---
