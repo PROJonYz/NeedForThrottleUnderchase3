@@ -21,14 +21,14 @@
 ![Screenshot](screenshots/settings.png)
 
 - Cars
-![Screenshot](screenshots/ca1.png)
-![Screenshot](screenshots/ca2.png)
-![Screenshot](screenshots/ca3.png)
-![Screenshot](screenshots/ca4.png)
-![Screenshot](screenshots/ca5.png)
-![Screenshot](screenshots/ca6.png)
+![Screenshot](screenshots/car1.png)
+![Screenshot](screenshots/car2.png)
+![Screenshot](screenshots/car3.png)
+![Screenshot](screenshots/car4.png)
+![Screenshot](screenshots/car5.png)
+![Screenshot](screenshots/car6.png)
 
 - Extra Cars
-![Screenshot](screenshots/ca7.png)
-![Screenshot](screenshots/ca8.png)
+![Screenshot](screenshots/car7.png)
+![Screenshot](screenshots/car8.png)
 
