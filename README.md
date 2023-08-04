@@ -1,5 +1,5 @@
 
-![Screenshot](game_namelogo.png)
+![Screenshot](screenshots/gamelogo.png)
 
 <h1 align="center">Need For Throttle Underchase 3</h1>
 
