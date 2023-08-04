@@ -38,7 +38,9 @@
 
 - Career Extra
   - Honda S2000 (10000 Total Drift Points)
-  - Honda NSX (25000 Total Drift Points) 
+  - Honda NSX (25000 Total Drift Points)
+ 
+---
 
 <p float="left">
   <img src="https://github.com/PROJonYz/NeedForThrottleUnderchase3/blob/main/screenshots/car1.png" width="500" height="300">
