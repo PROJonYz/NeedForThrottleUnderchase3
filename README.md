@@ -50,9 +50,10 @@
 ---
 
 <h1 align="center">Races</h1>
-<h2 align="center">Sprint & Drift Races</h2>
 <p float="left">
+  <h2 align="left">Sprint Race</h2>
   <img src="https://github.com/PROJonYz/NeedForThrottleUnderchase3/blob/main/screenshots/sprint1.png" width="500" height="300">
+  <h2 align="left">Drift Race</h2>
   <img src="https://github.com/PROJonYz/NeedForThrottleUnderchase3/blob/main/screenshots/drift1.png" width="500" height="300">
 </p>
 
