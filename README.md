@@ -29,6 +29,6 @@
 ![Screenshot](screenshots/car6.png)
 
 - Extra Cars
-![Screenshot](screenshots/car7.png)
-![Screenshot](screenshots/car8.png)
+![Screenshot](screenshots/car7_extra.png)
+![Screenshot](screenshots/car8_extra.png)
 
