@@ -14,7 +14,10 @@
 
 <h1 align="center">Screenshots</h1>
 <h5 align="center">MainMenu & Settings</h5>
-<img src="https://github.com/PROJonYz/NeedForThrottleUnderchase3/blob/main/screenshots/mainmenu.png" width="500" height="300">|<img src="https://github.com/PROJonYz/NeedForThrottleUnderchase3/blob/main/screenshots/settings.png" width="500" height="300">
+<p float="left">
+  <img src="https://github.com/PROJonYz/NeedForThrottleUnderchase3/blob/main/screenshots/mainmenu.png" width="400" height="200">
+  <img src="https://github.com/PROJonYz/NeedForThrottleUnderchase3/blob/main/screenshots/settings.png" width="400" height="200">
+</p>
 
 <h5 align="center">Cars</h5>
 <img src="https://github.com/PROJonYz/NeedForThrottleUnderchase3/blob/main/screenshots/car1.png" width="500" height="300"> <img src="https://github.com/PROJonYz/NeedForThrottleUnderchase3/blob/main/screenshots/car2.png" width="500" height="300"> <img src="https://github.com/PROJonYz/NeedForThrottleUnderchase3/blob/main/screenshots/car3.png" width="500" height="300"> <img src="https://github.com/PROJonYz/NeedForThrottleUnderchase3/blob/main/screenshots/car4.png" width="500" height="300"> <img src="https://github.com/PROJonYz/NeedForThrottleUnderchase3/blob/main/screenshots/car5.png" width="500" height="300"> <img src="https://github.com/PROJonYz/NeedForThrottleUnderchase3/blob/main/screenshots/car6.png" width="500" height="300"> <img src="https://github.com/PROJonYz/NeedForThrottleUnderchase3/blob/main/screenshots/car7_extra.png" width="500" height="300"> <img src="https://github.com/PROJonYz/NeedForThrottleUnderchase3/blob/main/screenshots/car8_extra.png" width="500" height="300">
