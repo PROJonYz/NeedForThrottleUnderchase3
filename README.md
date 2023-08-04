@@ -14,7 +14,9 @@
 
 ---
 
-<h0 align="center">Screenshots</h0>
+<h1 align="center">Screenshots</h1>
+
+---
 <h1 align="center">MainMenu & Settings</h1>
 <p float="left">
   <img src="https://github.com/PROJonYz/NeedForThrottleUnderchase3/blob/main/screenshots/mainmenu.png" width="500" height="300">
