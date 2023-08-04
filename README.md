@@ -1,7 +1,7 @@
 
 ![Screenshot](screenshots/gamelogo.png)
 
-<h1 align="center">Need For Throttle Underchase 3</h1>
+<h1 align="center">Need For Throttle Underchase</h1>
 
 
 - Open world racing game, which is made in Godot Engine
@@ -10,7 +10,7 @@
 - Current version of game : Alpha-Dev 0.1.32
 ---
 - Game is updating actively on Discord and maybe soon on Github
-- You can find download link and more information about NFTUC3 project on Discord channel "https://discord.gg/gZ7zfc2T"
+- You can find download link and more information about NFTUC project on Discord channel "https://discord.gg/gZ7zfc2T"
 
 ---
 
