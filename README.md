@@ -35,3 +35,21 @@
   <img src="https://github.com/PROJonYz/NeedForThrottleUnderchase3/blob/main/screenshots/car8_extra.png" width="500" height="300">
 </p>
 
+---
+
+<h1 align="center">Locations</h1>
+<p float="left">
+  <img src="https://github.com/PROJonYz/NeedForThrottleUnderchase3/blob/main/screenshots/atomic_city.png" width="500" height="300">
+  <img src="https://github.com/PROJonYz/NeedForThrottleUnderchase3/blob/main/screenshots/redport.png" width="500" height="300">
+  <img src="https://github.com/PROJonYz/NeedForThrottleUnderchase3/blob/main/screenshots/bayside_city.png" width="500" height="300">
+</p>
+
+---
+
+<h1 align="center">Races</h1>
+<h2 align="center">Sprint & Drift Races</h2>
+<p float="left">
+  <img src="https://github.com/PROJonYz/NeedForThrottleUnderchase3/blob/main/screenshots/sprint1.png" width="500" height="300">
+  <img src="https://github.com/PROJonYz/NeedForThrottleUnderchase3/blob/main/screenshots/drift1.png" width="500" height="300">
+</p>
+
