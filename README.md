@@ -15,13 +15,13 @@
 <h1 align="center">Screenshots</h1>
 
 - MainMenu
-![Screenshot](screenshots/mainmenu.png)
+![Screenshot|200](screenshots/mainmenu.png)
 
 - Settings
 ![Screenshot](screenshots/settings.png)
 
 - Cars
-![Screenshot|256x256,50%](screenshots/car1.png)
+![Screenshot](screenshots/car1.png)
 ![Screenshot](screenshots/car2.png)
 ![Screenshot](screenshots/car3.png)
 ![Screenshot](screenshots/car4.png)
