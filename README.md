@@ -13,9 +13,9 @@
 - You can find download link and more information about NFTUC3 project on Discord channel "https://discord.gg/gZ7zfc2T"
 
 <h1 align="center">Screenshots</h1>
-<h4 align="center">MainMenu & Settings</h4>
+<h5 align="center">MainMenu & Settings</h5>
 <img src="https://github.com/PROJonYz/NeedForThrottleUnderchase3/blob/main/screenshots/mainmenu.png" width="500" height="300"> <img src="https://github.com/PROJonYz/NeedForThrottleUnderchase3/blob/main/screenshots/settings.png" width="500" height="300">
 
-6 Cars + 2 Extra Cars
+<h5 align="center">Cars</h5>
 <img src="https://github.com/PROJonYz/NeedForThrottleUnderchase3/blob/main/screenshots/car1.png" width="500" height="300"> <img src="https://github.com/PROJonYz/NeedForThrottleUnderchase3/blob/main/screenshots/car2.png" width="500" height="300"> <img src="https://github.com/PROJonYz/NeedForThrottleUnderchase3/blob/main/screenshots/car3.png" width="500" height="300"> <img src="https://github.com/PROJonYz/NeedForThrottleUnderchase3/blob/main/screenshots/car4.png" width="500" height="300"> <img src="https://github.com/PROJonYz/NeedForThrottleUnderchase3/blob/main/screenshots/car5.png" width="500" height="300"> <img src="https://github.com/PROJonYz/NeedForThrottleUnderchase3/blob/main/screenshots/car6.png" width="500" height="300"> <img src="https://github.com/PROJonYz/NeedForThrottleUnderchase3/blob/main/screenshots/car7_extra.png" width="500" height="300"> <img src="https://github.com/PROJonYz/NeedForThrottleUnderchase3/blob/main/screenshots/car8_extra.png" width="500" height="300">
 
