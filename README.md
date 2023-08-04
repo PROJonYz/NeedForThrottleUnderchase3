@@ -14,13 +14,13 @@
 
 <h1 align="center">Screenshots</h1>
 
-- MainMenu
+<h1 align="center">MainMenu</h1>
 ![Screenshot](screenshots/mainmenu.png)
 
-- Settings
+<h1 align="center">Settings</h1>
 ![Screenshot](screenshots/settings.png)
 
-- Cars
+<h1 align="center">Cars</h1>
 ![Screenshot](screenshots/car1.png)
 ![Screenshot](screenshots/car2.png)
 ![Screenshot](screenshots/car3.png)
@@ -28,7 +28,7 @@
 ![Screenshot](screenshots/car5.png)
 ![Screenshot](screenshots/car6.png)
 
-- Extra Cars
+<h1 align="center">Extra Cars</h1>
 ![Screenshot](screenshots/car7.png)
 ![Screenshot](screenshots/car8.png)
 
