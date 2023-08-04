@@ -14,11 +14,9 @@
 
 <h1 align="center">Screenshots</h1>
 
-- MainMenu
 <img src="https://github.com/PROJonYz/NeedForThrottleUnderchase3/blob/main/screenshots/mainmenu.png" width="500" height="300">
 
-- Settings
-![Screenshot](screenshots/settings.png)
+<img src="https://github.com/PROJonYz/NeedForThrottleUnderchase3/blob/main/screenshots/settings.png" width="500" height="300">
 
 - Cars
 ![Screenshot](screenshots/car1.png)
