@@ -15,7 +15,7 @@
 <h1 align="center">Screenshots</h1>
 
 - MainMenu
-<img src="[https://your-image-url.type](https://github.com/PROJonYz/NeedForThrottleUnderchase3/blob/main/screenshots/mainmenu.png)" width="700" height="500">
+<img src="[https://github.com/PROJonYz/NeedForThrottleUnderchase3/blob/main/screenshots/mainmenu.png]" width="700" height="500">
 
 - Settings
 ![Screenshot](screenshots/settings.png)
