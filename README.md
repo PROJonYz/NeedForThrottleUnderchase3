@@ -12,14 +12,18 @@
 - Game is updating actively on Discord and maybe soon on Github
 - You can find download link and more information about NFTUC3 project on Discord channel "https://discord.gg/gZ7zfc2T"
 
+---
+
 <h1 align="center">Screenshots</h1>
-<h3 align="center">MainMenu & Settings</h3>
+<h2 align="center">MainMenu & Settings</h2>
 <p float="left">
   <img src="https://github.com/PROJonYz/NeedForThrottleUnderchase3/blob/main/screenshots/mainmenu.png" width="500" height="300">
   <img src="https://github.com/PROJonYz/NeedForThrottleUnderchase3/blob/main/screenshots/settings.png" width="500" height="300">
 </p>
 
-<h3 align="center">Cars</h3>
+---
+
+<h1 align="center">Cars</h1>
 <p float="left">
   <img src="https://github.com/PROJonYz/NeedForThrottleUnderchase3/blob/main/screenshots/car1.png" width="500" height="300">
   <img src="https://github.com/PROJonYz/NeedForThrottleUnderchase3/blob/main/screenshots/car2.png" width="500" height="300">
