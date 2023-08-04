@@ -21,12 +21,12 @@
 ![Screenshot](screenshots/settings.png)
 
 - Cars
-![Screenshot](screenshots/car1.png =256x256)
-![Screenshot](screenshots/car2.png =256x256)
-![Screenshot](screenshots/car3.png =256x256)
-![Screenshot](screenshots/car4.png =256x256)
-![Screenshot](screenshots/car5.png =256x256)
-![Screenshot](screenshots/car6.png =256x256)
+![Screenshot|256x256,50%](screenshots/car1.png)
+![Screenshot](screenshots/car2.png)
+![Screenshot](screenshots/car3.png)
+![Screenshot](screenshots/car4.png)
+![Screenshot](screenshots/car5.png)
+![Screenshot](screenshots/car6.png)
 
 - Extra Cars
 ![Screenshot](screenshots/car7_extra.png)
