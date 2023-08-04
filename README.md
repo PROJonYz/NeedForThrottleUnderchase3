@@ -13,8 +13,7 @@
 - You can find download link and more information about NFTUC3 project on Discord channel "https://discord.gg/gZ7zfc2T"
 
 <h1 align="center">Screenshots</h1>
-
-* MainMenu & Settings
+<h2 align="center">MainMenu & Settings</h2>
 <img src="https://github.com/PROJonYz/NeedForThrottleUnderchase3/blob/main/screenshots/mainmenu.png" width="500" height="300"> <img src="https://github.com/PROJonYz/NeedForThrottleUnderchase3/blob/main/screenshots/settings.png" width="500" height="300">
 
 6 Cars + 2 Extra Cars
