@@ -7,7 +7,7 @@
 - Open world racing game, which is made in Godot Engine
 ---
 - Game is under development from the year 2021
-- Current version of game : Alpha-Dev 0.1.32
+- Current version of game : Alpha-Dev 0.1.35
 ---
 - Game is updating actively on Discord and maybe soon on Github
 - You can find download link and more information about NFTUC project on Discord channel "https://discord.gg/gZ7zfc2T"
