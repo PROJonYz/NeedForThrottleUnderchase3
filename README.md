@@ -37,8 +37,8 @@
   - Mazda RX-7
 
 - Career Extra
-  - Honda S2000 (10000 Total Drift Points)
-  - Honda NSX (25000 Total Drift Points)
+  - ? (10000 Total Drift Points)
+  - ? (25000 Total Drift Points)
  
 ---
 
@@ -49,8 +49,6 @@
   <img src="https://github.com/PROJonYz/NeedForThrottleUnderchase3/blob/main/screenshots/car4.png" width="500" height="300">
   <img src="https://github.com/PROJonYz/NeedForThrottleUnderchase3/blob/main/screenshots/car5.png" width="500" height="300">
   <img src="https://github.com/PROJonYz/NeedForThrottleUnderchase3/blob/main/screenshots/car6.png" width="500" height="300">
-  <img src="https://github.com/PROJonYz/NeedForThrottleUnderchase3/blob/main/screenshots/car7_extra.png" width="500" height="300">
-  <img src="https://github.com/PROJonYz/NeedForThrottleUnderchase3/blob/main/screenshots/car8_extra.png" width="500" height="300">
 </p>
 
 ---
